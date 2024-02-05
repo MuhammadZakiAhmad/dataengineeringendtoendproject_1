@@ -16,7 +16,8 @@ Technologies Used:
 
 **Azure Active Directory** for access, authorization and provision purposes.
 
-**Microsoft Power BI for reporting and Analytics**
+**Microsoft Power BI** for reporting and Analytics
+
 
 ![image](https://github.com/MuhammadZakiAhmad/dataengineeringendtoendproject_1/assets/110293196/bffde6b6-5b4d-452b-945a-72a6390d4b23)
 
