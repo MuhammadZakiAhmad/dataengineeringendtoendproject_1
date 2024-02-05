@@ -1,4 +1,4 @@
-End-to-End Azure Data Engineering Project
+**End-to-End Azure Data Engineering Project**
 
 Technologies Used:
 **Azure Data Lake Gen 2** for data storage.
