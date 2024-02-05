@@ -2,17 +2,21 @@
 
 Technologies Used:
 
-**Azure Data Lake Gen 2** for data storage.
+**Microsoft SQL Server 2022** for setting an on premises SQL Databse
+
+**Azure Data Lake Gen 2** for data storage and ingestion from the onpremises SQL Server.
 
 **Azure Data Factory** for work flow orchestration.
 
 **Azure Databricks** for Data Transformations.
 
-**Azure Synapse Analytics** for providing an interface for BI platforms.
+**Azure Synapse Analytics** for loading and  providing an interface for BI platforms.
 
 **Azure Key Vault** for storage of secrets and as a best practice.
 
 **Azure Active Directory** for access, authorization and provision purposes.
+
+**Microsoft Power BI for reporting and Analytics**
 
 ![image](https://github.com/MuhammadZakiAhmad/dataengineeringendtoendproject_1/assets/110293196/bffde6b6-5b4d-452b-945a-72a6390d4b23)
 
