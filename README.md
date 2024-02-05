@@ -10,7 +10,6 @@ Azure Active Directory for access, authorization and provision purposes.
 
 ![image](https://github.com/MuhammadZakiAhmad/dataengineeringendtoendproject_1/assets/110293196/bffde6b6-5b4d-452b-945a-72a6390d4b23)
 
-![image](https://github.com/MuhammadZakiAhmad/dataengineeringendtoendproject_1/assets/110293196/80afccac-668d-42a1-89c0-ffa64c057661)
 
 
 
@@ -56,4 +55,8 @@ In the data reporting phase, Power BI establishes a direct connection to the clo
 
 To validate the end-to-end pipeline's integrity, two new customers are thoughtfully introduced into the local SQL database server. A successful test execution triggers the pipeline update, dynamically reflecting the new data in the Power BI report. This verification process ensures that the total number of customers increases from 849 to 851.
 
-This project serves as a testament to the versatility and capability of Azure's data engineering tools, offering valuable insights for businesses seeking to harness the power of cloud-based data solutions.
+Improvements:
+1. Using Incremental load for new rows of Data.
+2. More powerful and Interactive Power BI report 
+
+This project serves though uses many technologies for a relatively small data engineering task, it really well exhibits a standard data engineering workflow and at the same manifesting Azure Cloud powerful data handling capabilities.
