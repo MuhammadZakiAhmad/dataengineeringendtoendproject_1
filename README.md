@@ -1,6 +1,6 @@
 **End-to-End Azure Data Engineering Project**
 
-Technologies Used:
+**Technologies Used:**
 
 **Microsoft SQL Server 2022** for setting an on premises SQL Databse
 
