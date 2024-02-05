@@ -2,10 +2,15 @@
 
 Technologies Used:
 **Azure Data Lake Gen 2** for data storage.
+
 **Azure Data Factory** for work flow orchestration.
+
 **Azure Databricks** for Data Transformations.
+
 **Azure Synapse Analytics** for providing an interface for BI platforms.
+
 **Azure Key Vault** for storage of secrets and as a best practice.
+
 **Azure Active Directory** for access, authorization and provision purposes.
 
 ![image](https://github.com/MuhammadZakiAhmad/dataengineeringendtoendproject_1/assets/110293196/bffde6b6-5b4d-452b-945a-72a6390d4b23)
