@@ -25,7 +25,7 @@ Technologies Used:
 
 **Abstract**
 
-This comprehensive project showcases a complete Azure data engineering solution, commencing with a local SQL database and culminating in automated Power BI reporting. The initiative aims to impart knowledge about fundamental data engineering practices, with a particular focus on ETL pipeline techniques. The expertise gained here is especially valuable for small to medium-sized enterprises looking to seamlessly transition their local data to the cloud.
+This comprehensive project showcases a complete Azure data engineering solution, commencing with a local SQL database and culminating in automated Power BI reporting. The initiative aims to impart knowledge about fundamental data engineering practices, with a particular focus on ETL pipeline techniques. 
 
 **Introduction**
 
@@ -63,7 +63,7 @@ In the data reporting phase, Power BI establishes a direct connection to the clo
 
 **5. Final Pipeline Test**
 
-To validate the end-to-end pipeline's integrity, two new customers are thoughtfully introduced into the local SQL database server. A successful test execution triggers the pipeline update, dynamically reflecting the new data in the Power BI report. This verification process ensures that the total number of customers increases from 849 to 851.
+To validate the end-to-end pipeline's integrity, 2 new customers are thoughtfully introduced into the local SQL database server. A successful test execution triggers the pipeline update, dynamically reflecting the new data in the Power BI report. This verification process ensures that the total number of customers increases from 849 to 851.
 
 **Improvements:**
 1. Using Incremental load for new rows of Data.
